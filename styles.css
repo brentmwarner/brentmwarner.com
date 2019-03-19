@@ -1,0 +1,35 @@
+@charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,700);
+/* CSS Document */
+
+body {
+  background: #e4e5e6;
+
+}
+
+
+.container {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 40%;
+  left: 0;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+}
+
+.logo {
+	position: fixed;
+	padding-top: 10px;
+	padding-left: 8px;
+}
+
+
+
+h1 {
+  position: relative;
+  text-align: center;
+  font-size: 63.03px;
+  font-weight: 700;
+}
+
